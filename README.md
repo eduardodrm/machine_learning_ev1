@@ -383,12 +383,12 @@ GitHub se utiliza como repositorio central para mantener una estructura organiza
 machine_learning_ev1/
 │
 ├── data/
-│   ├── raw/
-│   │   └── Telco_Customer_Churn_Dataset.csv
+│   ├── processed/
+│   │   └── telco_customer_churn_processed.csv
 │   │
-│   └── processed/
-│       └── telco_customer_churn_processed.csv
-│
+│   └── raw/
+│       └── Telco_Customer_Churn_Dataset.csv
+│   
 ├── images/
 │
 ├── models/
